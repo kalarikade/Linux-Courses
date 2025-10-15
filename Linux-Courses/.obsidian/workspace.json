@@ -20,24 +20,65 @@
               "icon": "lucide-file",
               "title": "LabEx Basic Files Operations"
             }
-          }
-        ]
-      },
-      {
-        "id": "dba67ca0b2a5744f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bbac5e7490765639",
+            "id": "ddf14f74d8f18dee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LabEx Sec+/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "60fc4e05abbcda7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabEx Sec+/LabEx Suspicious Process Activity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LabEx Suspicious Process Activity"
+            }
+          },
+          {
+            "id": "9de1c8bed43dd24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabEx Sec+/LabEx Detect Unexpected File Creations & Mods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LabEx Detect Unexpected File Creations & Mods"
+            }
+          },
+          {
+            "id": "101f3d9f260d9796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux WebEx/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux WebEx/LabEx Basic Files Operations.md",
+                "file": "Linux WebEx/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LabEx Basic Files Operations"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -129,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux WebEx/LabEx Basic Files Operations.md",
+                "file": "Linux WebEx/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LabEx Basic Files Operations"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -158,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux WebEx/LabEx Basic Files Operations.md",
+                "file": "Linux WebEx/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LabEx Basic Files Operations"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -182,14 +223,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "65e436ca4dfef463",
+  "active": "101f3d9f260d9796",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Linux WebEx/LabEx Analyze System Logs for Anomalous Entries.md",
+    "Linux WebEx/Untitled.md",
+    "LabEx Sec+/LabEx Detect Unexpected File Creations & Mods.md",
+    "LabEx Sec+/LabEx Suspicious Process Activity.md",
+    "2025-10-14.md",
+    "LabEx Sec+/Introduction.md",
     "Linux WebEx/LabEx Basic Files Operations.md",
+    "LabEx Sec+",
+    "Welcome.md",
     "Linux WebEx",
-    "Untitled"
+    "Git Commands"
   ]
 }
