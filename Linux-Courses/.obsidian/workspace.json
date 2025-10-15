@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabEx Sec+/LabEx Suspicious Process Activity.md",
+                "file": "Linux WebEx/LabEx Suspicious Process Activity.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabEx Sec+/LabEx Detect Unexpected File Creations & Mods.md",
+                "file": "Linux WebEx/LabEx Detect Unexpected File Creations & Mods.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux WebEx/Untitled.md",
+                "file": "Linux WebEx/LabEx Suspicious Process Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for LabEx Suspicious Process Activity"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux WebEx/Untitled.md",
+                "file": "Linux WebEx/LabEx Suspicious Process Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from LabEx Suspicious Process Activity"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux WebEx/Untitled.md",
+                "file": "Linux WebEx/LabEx Suspicious Process Activity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of LabEx Suspicious Process Activity"
             }
           }
         ]
@@ -227,12 +227,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "101f3d9f260d9796",
+  "active": "07f58ecf74313fca",
   "lastOpenFiles": [
-    "Linux WebEx/LabEx Analyze System Logs for Anomalous Entries.md",
+    "Linux WebEx/LabEx Detect Unexpected File Creations & Mods.md",
     "Linux WebEx/Untitled.md",
-    "LabEx Sec+/LabEx Detect Unexpected File Creations & Mods.md",
-    "LabEx Sec+/LabEx Suspicious Process Activity.md",
+    "Linux WebEx/LabEx Analyze System Logs for Anomalous Entries.md",
+    "Linux WebEx/LabEx Suspicious Process Activity.md",
     "2025-10-14.md",
     "LabEx Sec+/Introduction.md",
     "Linux WebEx/LabEx Basic Files Operations.md",
