@@ -4,12 +4,6 @@ You will begin by manipulating Linux file permissions using the `chmod` command 
 
 This is a Guided Lab, which provides step-by-step instructions to help you learn and practice. Follow the instructions carefully to complete each step and gain hands-on experience. Historical data shows that this is a intermediate level lab with a 75% completion rate. It has received a 98% positive review rate from learners.
 
-![labby](https://labex.io/images/labby/avatar-new.png)Labby
-
-Great! Let me prepare the lab VM for you. While it's being set up, you can start reviewing the first step of this lab.
-
-![labby](https://labex.io/images/labby/avatar-new.png)Labby
-
 # Configure Linux File Permissions for Confidentiality and Integrity
 
 In this step, you will learn how to use fundamental Linux file permissions to enforce two key principles of information security: **Confidentiality** and **Integrity**. Confidentiality ensures that data is accessible only to authorized users, while Integrity ensures that data is not altered in an unauthorized manner. You will create a file, examine its default permissions, and then use the `chmod` command to restrict access and prevent modifications. All operations will be performed in your home project directory, `~/project`.
