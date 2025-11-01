@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de64d5f529183f77",
+        "id": "4ad7e2d62a50a335",
         "type": "tabs",
         "children": [
           {
-            "id": "101dd387d7fb1214",
+            "id": "a55f2155d3fee439",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,49 @@
             }
           },
           {
-            "id": "d4f93da2d253c4f1",
+            "id": "3ea46f700d989454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabEx Cyber Labs/Netcat.md",
+                "file": "LabEx Cyber Labs/Brute Force SSH in Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netcat"
+              "title": "Brute Force SSH in Hydra"
             }
           },
           {
-            "id": "a9900ef4066b50ab",
+            "id": "65659c9f9245a9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabEx Cyber Labs/Untitled.md",
+                "file": "LabEx Cyber Labs/Intro to Encryption with OpenSSL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Intro to Encryption with OpenSSL"
+            }
+          },
+          {
+            "id": "c6dd7512b1769116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encrypt Files in OpenSSL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encrypt Files in OpenSSL"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,35 +213,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "07f58ecf74313fca",
+  "active": "c6dd7512b1769116",
   "lastOpenFiles": [
-    "LabEx Cyber Labs/Netcat.md",
-    "Network+/Common Network Attacks.md",
-    "Network+/Network Device Commands & Tools.md",
-    "LabEx Cyber Labs/Untitled.md",
+    "Encrypt Files in OpenSSL.md",
     "LabEx Cyber Labs/Intro to Encryption with OpenSSL.md",
     "Linux WebEx/LabEx Basic Files Operations.md",
+    "LabEx Sec+/Ensuring Data Integrity & Authenticity with Cryptography.md",
+    "LabEx Sec+/Hardening a Linux Endpoint with Firewall & Service Management.md",
+    "LabEx Sec+/Implementing Data Resilience Backups & File Integrity.md",
+    "LabEx Sec+/Input Validation.md",
+    "LabEx Sec+/Introduction.md",
+    "LabEx Sec+/Digital Forensics Evidence Acquisition and Integrity.md",
+    "LabEx Sec+/Applying Security Baselines and Compliance Controls.md",
+    "LabEx Cyber Labs/Scan Vulnerbilities in Nmap.md",
+    "LabEx Cyber Labs/Brute Force SSH in Hydra.md",
+    "John the Ripper.md",
+    "Untitled.md",
+    "TryHackMe",
+    "LabEx Cyber Labs/Netcat.md",
+    "LabEx Cyber Labs/Wireshark.md",
+    "Network+/Common Network Attacks.md",
+    "Network+/Network Device Commands & Tools.md",
     "LabEx Cyber Labs/Using Hydra to Crack Passwords.md",
     "LabEx Cyber Labs/Network Scanning with Nmap.md",
     "LabEx Cyber Labs",
     "Git Commands/2025-10-14.md",
     "Welcome.md",
-    "LabEx Sec+/Applying Security Baselines and Compliance Controls.md",
-    "LabEx Sec+/Implementing Data Resilience Backups & File Integrity.md",
     "LabEx Sec+/Intro to Container Security with Docker.md",
-    "LabEx Sec+/Hardening a Linux Endpoint with Firewall & Service Management.md",
     "LabEx Sec+/Network Traffic Analysis and Secure Remote Access.md",
     "LabEx Sec+/Monitoring & Incident Response Log Analysis.md",
-    "LabEx Sec+/Digital Forensics Evidence Acquisition and Integrity.md",
-    "LabEx Sec+/Introduction.md",
-    "LabEx Sec+/Ensuring Data Integrity & Authenticity with Cryptography.md",
     "LabEx Sec+/Managing User Identities & Access Controls in Linux.md",
-    "LabEx Sec+/LabEx Analyze System Logs for Anomalous Entries.md",
-    "LabEx Sec+/Password Policies and Detecting Attack in Linux.md",
-    "LabEx Sec+/Passwords for New User Accounts.md",
-    "LabEx Sec+/Nmap.md",
-    "LabEx Sec+/Input Validation.md",
-    "LabEx Sec+/LabEx Suspicious Process Activity.md",
     "Network+",
     "LabEx Sec+",
     "Linux WebEx",
