@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Powershell - TCM YT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Powershell - TCM YT"
             }
           }
         ],
@@ -257,12 +257,13 @@
   },
   "active": "6e2db683806be56e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
-    "Git Commands/2025-10-14.md",
-    "Powershell - TCM YT.md",
-    "Pasted image 20251102121438.png",
+    "John the Ripper.md",
     "Pasted image 20251102121310.png",
+    "Pasted image 20251102121438.png",
+    "Powershell - TCM YT.md",
+    "Untitled.md",
+    "TryHackMe/TryHackMe  Investigating with ELK 101.md",
+    "Git Commands/2025-10-14.md",
     "Pasted image 20251102121058.png",
     "Pasted image 20251102120650.png",
     "Network+/Network Device Commands & Tools.md",
@@ -285,7 +286,6 @@
     "LabEx Sec+/Applying Security Baselines and Compliance Controls.md",
     "LabEx Cyber Labs/Scan Vulnerbilities in Nmap.md",
     "LabEx Cyber Labs/Brute Force SSH in Hydra.md",
-    "John the Ripper.md",
     "TryHackMe",
     "LabEx Cyber Labs/Netcat.md",
     "LabEx Cyber Labs/Wireshark.md",
@@ -293,7 +293,6 @@
     "LabEx Cyber Labs/Using Hydra to Crack Passwords.md",
     "LabEx Cyber Labs/Network Scanning with Nmap.md",
     "LabEx Cyber Labs",
-    "Welcome.md",
     "Network+",
     "LabEx Sec+",
     "Linux WebEx",

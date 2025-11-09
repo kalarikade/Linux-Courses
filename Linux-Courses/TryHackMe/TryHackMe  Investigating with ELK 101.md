@@ -1,4 +1,4 @@
-# TryHackMe | Investigating with ELK 101
+
 
 ![](https://miro.medium.com/v2/resize:fit:256/0*X_jadLlgx44dBzsG.png)
 
