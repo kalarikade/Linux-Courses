@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:kalarikade/Linux-Courses.git",
+  "gitLocation": "",
+  "syncinterval": 5,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
+}
